@@ -3,7 +3,7 @@ This repository contains all files to convert a KM100 kinematic mirror mount fro
 
 Here we provide both the 3D model, as well as .stl files of the individual parts that need to be printed.
 
-![CAD model of the mirror mount](motorized_kinematic_mount/CAD_model.PNG)
+![CAD model of the mirror mount](CAD_model.PNG)
 
 Parts needed are:
 - 1x Motor mount
