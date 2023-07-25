@@ -12,6 +12,10 @@ Parts needed are:
 
 To computer control the motors we use an Arduino MEGA with sensor shield, as described here - https://github.com/HorkeLab/arduino_28BYJ-48
 
-# Printing Instructions
+# Printing and assembly instructions Instructions
 
 We have printed these in both PLA and PETG without problems. A well-calibrated printer is necessary to avoid excessive friction/stalling of the motors. Typically printed on 0.4mm nozzle, 0.2mm layer height, 15\% infill.
+
+The motor mount fixes the distance between the kinematic mount and the motors, however it does not fix the rotational alignment between them. During assembly care needs to be taken that they are properly oriented parallel to each other.
+
+Since the adjustment (tip/tilt) screws move horizontally as the mirror is moved, the idea is that the printed knob adapters can slide along the motor shaft (while the motor itself is firmly fixed). The knob adapters should therefore not be fixed to the motor shaft.
