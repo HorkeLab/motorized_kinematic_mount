@@ -9,6 +9,7 @@ Parts needed are:
 - 1x Motor mount
 - 1x Bracket
 - 2x Knob adapter
+-  2x 28BYJ-48 stepper motor.
 
 To computer control the motors we use an Arduino MEGA with sensor shield, as described here - https://github.com/HorkeLab/arduino_28BYJ-48
 
